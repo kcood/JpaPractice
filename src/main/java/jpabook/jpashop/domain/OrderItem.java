@@ -24,6 +24,11 @@ public class OrderItem {
     private int orderPrice;
     private int count; //주문 수량
 
+    protected OrderItem(){}
+    /*orderItem 생성은 createOrderItem()으로만 할수있게 하려고 막아두기용
+    Orderitem orderItem1 = new OrderItem() 같은건 안대! */
+
+
     //===생성 메서드===
     public static OrderItem createOrderItem(Item item, int orderPrice, int count){
         OrderItem orderItem = new OrderItem();
