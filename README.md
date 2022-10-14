@@ -1,6 +1,12 @@
 # JpaPractice
 ----
 
+- 노션 정리
+https://www.notion.so/JPA-1-72fec38a5bc640cead26bbd2faad48f4
+
+----
+
+
 - 엔티티
 <img width="418" alt="스크린샷 2022-10-14 오전 10 44 08" src="https://user-images.githubusercontent.com/100116834/195742918-cd7e6034-ccdd-44a5-92f8-710f38797710.png">
 
